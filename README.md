@@ -1,5 +1,11 @@
-### Hi there 👋
-- ⚡ Fun fact: ...
+### Olá, meu nome é Maikon Alexandre 👋
+- 🔭 Sou Web Developer.
+- ✨ Estudante de Sistemas de informação na UFVJM - campus Diamantina.
+- 🌱 Estou aprendendo ReactNative, Java e Kotlin.
+- 💬 Gosto muito de séries e filmes.
+- ⚡ Fato engraçado... Bom... meu time de coração é o cruzeiro, seria cômico, se não fosse trágico.
+
+
 
 <!--
 **maikonalexandre/maikonalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
