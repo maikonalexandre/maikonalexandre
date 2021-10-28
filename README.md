@@ -3,8 +3,8 @@
 - ✨ Estudante de Sistemas de informação na UFVJM - campus Diamantina.
 - 🌱 Estou aprendendo ReactNative, Java e Kotlin.
 - 💬 Gosto muito de séries e filmes.
-- ⚡ Fato engraçado... Bom... meu time de coração é o cruzeiro, seria cômico, se não fosse trágico.
-
+- ⚡ Fato engraçado... Bom... meu time de coração é o cruzeiro. Seria cômico, se não fosse trágico.
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!--
