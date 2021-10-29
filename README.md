@@ -3,8 +3,8 @@
 Meu nome é Maikon Alexandre, sou Web Deveoper, estudante de Sistemas de informação na UFVJM e apaixonado por café. Curto esportes como basquete, fotebol e futsal. Meu passa tempo preferido é jogar(jogos de cartas e rpg). Atualmente estou buscando aprimorar meus conhecimentos mobal usando Kotlin, sou novo aqui no GitHub.
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=maikonalexandre&count_private=true&show_icons=true)
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="230">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=maikonalexandre&count_private=true&show_icons=true )
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=maikonalexandre)
 
