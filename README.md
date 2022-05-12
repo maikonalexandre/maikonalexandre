@@ -1,4 +1,4 @@
-### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Meu nome é Maikon Alexandre, sou Web Deveoper, estudante de Sistemas de informação na UFVJM e apaixonado por café. Curto esportes como basquete, fotebol e futsal. Meu passa tempo preferido é jogar(jogos de cartas e rpg). Atualmente estou buscando aprimorar meus conhecimentos mobal usando Kotlin, sou novo aqui no GitHub.
 
