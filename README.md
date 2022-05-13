@@ -1,6 +1,10 @@
 ### Hello World  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Meu nome é Maikon Alexandre, sou Web Deveoper, estudante de Sistemas de informação na UFVJM e apaixonado por café. Curto esportes como basquete, fotebol e futsal. Meu passa tempo preferido é jogar(jogos de cartas e rpg). Atualmente estou buscando aprimorar meus conhecimentos mobal usando Kotlin, sou novo aqui no GitHub.
+Meu nome é Maikon Alexandre sou mineiro, cruzeirense, apaixonado por tecnologia e empreendedorismo. 
+
+Meu interesse por programação começou por acaso, quando escolhi fazer o curso de técnico em informática no IFNMG como forma de fugir dos demais cursos. Foi lá que tive meu primeiro contato com algumas linguagens de programação como Java, C, JavaScript e outras. Mas nem tudo são flores, apesar de gostar bastante da área, assim que me formei me dei tempo para experimentar outras coisas, até voltar pro meu lugar.
+
+“Para ter sucesso, o seu desejo de sucesso deve ser maior do que o seu medo do fracasso” - Bill Cosby
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=maikonalexandre&count_private=true&show_icons=true )
