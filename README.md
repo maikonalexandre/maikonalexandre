@@ -7,8 +7,8 @@ Meu interesse por programação começou por acaso, quando escolhi fazer o curso
 “Para ter sucesso, o seu desejo de sucesso deve ser maior do que o seu medo do fracasso” - Bill Cosby
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=maikonalexandre&count_private=true&show_icons=true )
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=maikonalexandre&count_private=true&show_icons=true_theme=dark )
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=maikonalexandre)
 
