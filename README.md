@@ -9,8 +9,8 @@ Meu interesse por programação começou por acaso, quando escolhi fazer o curso
 
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikonalexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" width="530em" src="https://github-readme-stats.vercel.app/api?username=maikonalexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 
