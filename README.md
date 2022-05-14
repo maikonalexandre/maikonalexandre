@@ -8,8 +8,10 @@ Meu interesse por programação começou por acaso, quando escolhi fazer o curso
 
 
 <div>
- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=maikonalexandre&_icons=true&theme=react" alt="maikon stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&theme=react" alt="maikon most languages"/>
+ <img aling="left' src=""/>
+                         
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maikonalexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 
