@@ -1,4 +1,5 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> 
+###Hello World  
 
 Meu nome é Maikon Alexandre sou mineiro, cruzeirense, apaixonado por tecnologia e empreendedorismo. 
 
