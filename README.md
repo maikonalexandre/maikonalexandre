@@ -1,7 +1,6 @@
-<img width="520" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" >
 
 
-### Hello World  <img width="520" src="https://giphy.com/gifs/slap-snake-xUA7aZeLE2e0P7Znz2">
+# Hello World  <img width="520" src="https://giphy.com/gifs/slap-snake-xUA7aZeLE2e0P7Znz2">
 
 Meu nome é Maikon Alexandre sou mineiro, cruzeirense, apaixonado por tecnologia e empreendedorismo. 
 
@@ -12,6 +11,9 @@ Meu interesse por programação começou por acaso, quando escolhi fazer o curso
 
                      
 <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&langs_count=7&theme=react"/>
+
+<img width="520" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" >
+
 
 
 
