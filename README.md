@@ -8,8 +8,6 @@ Meu interesse por programação começou por acaso, quando escolhi fazer o curso
 
 “Para ter sucesso, o seu desejo de sucesso deve ser maior do que o seu medo do fracasso” - Bill Cosby
 
-
-                     
 <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&langs_count=7&theme=react"/>
 
 <img width="520" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" >
