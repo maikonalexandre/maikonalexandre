@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" >
+<img width="520" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" >
 
 
 ### Hello World  
