@@ -10,12 +10,8 @@ Meu interesse por programação começou por acaso, quando escolhi fazer o curso
 “Para ter sucesso, o seu desejo de sucesso deve ser maior do que o seu medo do fracasso” - Bill Cosby
 
 
-<div>
- <img aling="left' src=""/>
-                         
-  <img height="180em" width="490" src="https://github-readme-stats.vercel.app/api/?username=maikonalexandre&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&langs_count=7&theme=react"/>
-</div>
+                     
+<img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&langs_count=7&theme=react"/>
 
 
 
