@@ -1,6 +1,6 @@
 
 
-# Hello World  <img width="520" src="https://giphy.com/gifs/slap-snake-xUA7aZeLE2e0P7Znz2">
+# Hello World  :wave:
 
 Meu nome é Maikon Alexandre sou mineiro, cruzeirense, apaixonado por tecnologia e empreendedorismo. 
 
