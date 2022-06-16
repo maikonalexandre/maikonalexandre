@@ -1,6 +1,7 @@
 
 
-# Hello World  :wave:
+# Hello World   👋
+
 
 👨‍💻 Meu nome é Maikon Alexandre sou mineiro, cruzeirense 💙, apaixonado por tecnologia e empreendedorismo. 
 
