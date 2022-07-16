@@ -11,11 +11,6 @@
 
 <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikonalexandre&layout=compact&langs_count=7&theme=react"/>
 
-<img width="520" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" >
-
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Maik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Maik-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
