@@ -30,7 +30,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=maikonalexandre)
 
- [blog pessoal](https://maikon-blog.vercel.app/posts)
+ Visite o meu [blog pessoal](https://maikon-blog.vercel.app/posts) 😄
 
 
 
