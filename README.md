@@ -26,9 +26,11 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maikon-alexandre)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maikonalexandre574@gmail.com)
- [blog pessoal](https://maikon-blog.vercel.app/posts)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=maikonalexandre)
+
+ [blog pessoal](https://maikon-blog.vercel.app/posts)
 
 
 
