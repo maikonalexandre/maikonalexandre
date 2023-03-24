@@ -28,7 +28,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maikonalexandre574@gmail.com)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=maikonalexandre)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=maikonalexandre) -->
 
  Visite o meu [blog pessoal](https://maikon-blog.vercel.app/posts) 😄
 
