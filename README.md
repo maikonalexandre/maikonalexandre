@@ -30,7 +30,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=maikonalexandre) -->
 
-<!-- [Meu blog - CodaFofo](https://codafofo-blog-1-git-main-maikonalexandre.vercel.app/) -->
+[VEJA MEU SITE PESSOAL](https://maikonalexandre.com.br/)
 
 
 
