@@ -18,11 +18,9 @@
   <img align="center" alt="Maik-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Maik-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maik-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maik-mongodb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div> 
 
 #
-### :round_pushpin: Entre em contato comigo:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maikon-alexandre)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maikonalexandre574@gmail.com)
@@ -30,7 +28,9 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=maikonalexandre) -->
 
-[VEJA MEU SITE PESSOAL](https://maikonalexandre.com.br/)
+[maikonalexandre.com.br](https://maikonalexandre.com.br/)
+
+
 
 
 
