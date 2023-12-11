@@ -8,7 +8,7 @@
 
 <div>
   <samp>
-    <a href='https://maikonalexandre.com.br/'>website</a> •
+    <a target="_blank" href='https://maikonalexandre.com.br/'>website</a> •
     <a href='mailto:maikonalexandre574@gmail.com'>email</a> •
     <a href='https://www.linkedin.com/in/maikon-alexandre'>linkedin</a> •
     <a href='https://twitter.com/maikonalx'>twitter</a> •
