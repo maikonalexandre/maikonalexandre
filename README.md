@@ -8,10 +8,15 @@
 > 💡 “Para ter sucesso, o seu desejo de sucesso deve ser maior do que o seu medo do fracasso” - Bill Cosby
 #
 
-
-[maikonalexandre.com.br](https://maikonalexandre.com.br/) _
-[linkedin](https://www.linkedin.com/in/maikon-alexandre) _ 
-[gmail](mailto:maikonalexandre574@gmail.com) _ 
+<div align='center'>
+  <samp>
+    <a href='https://maikonalexandre.com.br/'>website</a> •
+    <a href='mailto:maikonalexandre574@gmail.com'>email</a> •
+    <a href='https://www.linkedin.com/in/maikon-alexandre'>linkedin</a> •
+    <a href='https://twitter.com/maikonalx'>twitter</a> •
+    <a href='https://www.instagram.com/maikon.alx/'>instagram</a>
+  </samp>
+</div>
 
 
 
