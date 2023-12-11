@@ -8,7 +8,7 @@
 > 💡 “Para ter sucesso, o seu desejo de sucesso deve ser maior do que o seu medo do fracasso” - Bill Cosby
 #
 
-<div align='center'>
+<div>
   <samp>
     <a href='https://maikonalexandre.com.br/'>website</a> •
     <a href='mailto:maikonalexandre574@gmail.com'>email</a> •
