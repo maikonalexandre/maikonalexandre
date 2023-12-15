@@ -16,18 +16,16 @@
 </div>
 
 
-## About me
--
--
--
--
+### 🙂🇧🇷 About me
+- Maikon Alexandre, brazilian, 22 years & **full stack developer**
+- Passionate about technology and entrepreneurship
+- I have been working as a developer for about 2 years
 
-## When I'm off
--
--
--
+### 📝 What I'm studying now.
+Currently I'm studying several things but mainly **English** and **Golang**
 
-## What studie's now 
+### 🚫 When I'm off
+When I'm off, I like to pretend I'm an **athlete** 💪. I practice several sports, such as **football**, **futsal**, **bodybuilding** and **basketball**. But, like every normal human being, I also like watching **series** and **playing games**.
 
 
 
