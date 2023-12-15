@@ -1,5 +1,5 @@
 <div align="center">
-  <img  width="300" src="https://github.com/maikonalexandre/maikonalexandre/assets/86725282/c5bbb2d9-914b-4625-9c0e-e6fa6f507502" />
+  <img  width="250" src="https://github.com/maikonalexandre/maikonalexandre/assets/86725282/c5bbb2d9-914b-4625-9c0e-e6fa6f507502" />
 </div>
 <hr>
 <div align="center">
