@@ -5,8 +5,15 @@
 <!-- <div align="center">
   <p>Hello world! I'm Maikon Alexandre a brazilian front end developer!</p>
 </div> -->
-
-
+<div align="center">
+  <samp>
+    <a target="_blank" href='https://maikonalexandre.com.br/'>website</a> •
+    <a target="_blank" href='mailto:maikonalexandre574@gmail.com'>email</a> •
+    <a target="_blank" href='https://www.linkedin.com/in/maikon-alexandre'>linkedin</a> •
+    <a target="_blank" href='https://twitter.com/maikonalx'>twitter</a> •
+    <a target="_blank" href='https://www.instagram.com/maikon.alx/'>instagram</a>
+  </samp>
+</div>
 
 ### 🙂🇧🇷 About me
 - Maikon Alexandre, brazilian, 22 years & **full stack developer**
@@ -19,15 +26,8 @@ Currently I'm studying several things but mainly **English** and **Golang**
 ### 🚫 When I'm off
 When I'm off, I like to pretend I'm an **athlete** 💪. I practice several sports, such as **football**, **futsal**, **bodybuilding** and **basketball**. But, like every normal human being, I also like watching **series** and **playing games**.
 
-<div >
-  <samp>
-    <a target="_blank" href='https://maikonalexandre.com.br/'>website</a> •
-    <a target="_blank" href='mailto:maikonalexandre574@gmail.com'>email</a> •
-    <a target="_blank" href='https://www.linkedin.com/in/maikon-alexandre'>linkedin</a> •
-    <a target="_blank" href='https://twitter.com/maikonalx'>twitter</a> •
-    <a target="_blank" href='https://www.instagram.com/maikon.alx/'>instagram</a>
-  </samp>
-</div>
+### See some of my projects 👇🏾
+
 
 
 
