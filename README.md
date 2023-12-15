@@ -21,10 +21,10 @@
 - I have been working as a developer for about 2 years
 
 ### 📝 What I'm studying now.
-Currently I'm studying several things but mainly **English** and **Golang**
+- Currently I'm studying several things but mainly **English** and **Golang**
 
 ### 🚫 When I'm off
-When I'm off, I like to pretend I'm an **athlete** 💪. I practice several sports, such as **football**, **futsal**, **bodybuilding** and **basketball**. But, like every normal human being, I also like watching **series** and **playing games**.
+- When I'm off, I like to pretend I'm an **athlete** 💪. I practice several sports, such as **football**, **futsal**, **bodybuilding** and **basketball**. But, like every normal human being, I also like watching **series** and **playing games**.
 
 ### See some of my projects 👇🏾
 
