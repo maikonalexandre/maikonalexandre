@@ -1,7 +1,8 @@
-
-### About me
-
-<div>
+<div align="center">
+  <img  width="300" src="https://github.com/maikonalexandre/maikonalexandre/assets/86725282/c5bbb2d9-914b-4625-9c0e-e6fa6f507502" />
+</div>
+<hr>
+<div align="center">
   <samp>
     <a target="_blank" href='https://maikonalexandre.com.br/'>website</a> •
     <a target="_blank" href='mailto:maikonalexandre574@gmail.com'>email</a> •
@@ -11,6 +12,7 @@
   </samp>
 </div>
 
+### About me
 
 
 
