@@ -2,6 +2,9 @@
   <img  width="250" src="https://github.com/maikonalexandre/maikonalexandre/assets/86725282/c5bbb2d9-914b-4625-9c0e-e6fa6f507502" />
 </div>
 <hr>
+<!-- <div align="center">
+  <p>Hello world! I'm Maikon Alexandre a brazilian front end developer!</p>
+</div> -->
 <div align="center">
   <samp>
     <a target="_blank" href='https://maikonalexandre.com.br/'>website</a> •
@@ -12,7 +15,19 @@
   </samp>
 </div>
 
-### About me
+
+## About me
+-
+-
+-
+-
+
+## When I'm off
+-
+-
+-
+
+## What studie's now 
 
 
 
