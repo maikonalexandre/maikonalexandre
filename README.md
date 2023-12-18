@@ -19,6 +19,7 @@
 - Maikon Alexandre, brazilian, 22 years & **full stack developer**
 - Passionate about technology and entrepreneurship
 - I have been working as a developer for about 2 years
+- My specialty today is Javascript with **React**, **React Native** and **Node**
 
 ### 📝 What I'm studying now.
 - Currently I'm studying several things but mainly **English** and **Golang**
