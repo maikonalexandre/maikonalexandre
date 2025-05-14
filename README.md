@@ -7,7 +7,7 @@
 </div> -->
 <div align="center" >
   <samp>
-    <a target="_blank" href='https://maikonalexandre.com.br/'>website</a> •
+    <a target="_blank" href='https://astro-blog-chi-one.vercel.app/'>website</a> •
     <a target="_blank" href='mailto:maikonalexandre574@gmail.com'>email</a> •
     <a target="_blank" href='https://www.linkedin.com/in/maikon-alexandre'>linkedin</a> •
     <a target="_blank" href='https://twitter.com/maikonalx'>twitter</a> •
@@ -16,7 +16,7 @@
 </div>
 
 ### 🙂🇧🇷 About me
-- Maikon Alexandre, brazilian, 22 years & **full stack developer**
+- Maikon Alexandre, brazilian, 23 years & **full stack developer**
 - Passionate about technology and entrepreneurship
 - I have been working as a developer for about 2 years
 - My specialty today is Javascript with **React**, **React Native** and **Node**
